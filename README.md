@@ -1,3 +1,11 @@
+#App platforms
+![Screenshot_20210609_144505_com example rouchka_controll](https://user-images.githubusercontent.com/46983618/172259364-4a968ead-a273-4a4e-ac1c-b15bf7d91c72.jpg)
+![Screenshot_20210609_144514_com example rouchka_controll](https://user-images.githubusercontent.com/46983618/172259404-973c4059-ba9f-49b9-a129-b1572f542e5a.jpg)
+![Screenshot_20210609_144519_com example rouchka_controll](https://user-images.githubusercontent.com/46983618/172259461-d5de136a-7b8d-4ad8-bcbb-a0c0f86c8555.jpg)
+![Screenshot_20210610_211520_com example rouchka_controll](https://user-images.githubusercontent.com/46983618/172259490-87616e23-c6d0-4a82-8154-47e2caa5d29d.jpg)
+![Screenshot_20210609_144523_com example rouchka_controll](https://user-images.githubusercontent.com/46983618/172259518-453a284d-1c03-4d06-a7fd-7154fd2919ea.jpg)
+
+
 # rouchka_controll
 
 A new Flutter application.
