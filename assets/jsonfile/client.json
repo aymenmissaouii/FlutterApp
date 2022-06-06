@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "robotId": "R45261200",
+        "password": "123456789",
+        "role": 777,
+        "name": "sadek mokadem",
+        "email": "sadekmokadem@gmail.com",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "robotId": "R45261201",
+        "password": "456789123",
+        "role": 555,
+        "name": "International",
+        "email": "International@gmail.com",
+        "image": "https://user.oc-static.com/files/6001_7000/6410.jpg"
+    },
+    {
+        "id": 13,
+        "robotId": "R45261202",
+        "password": "45687912",
+        "role": 555,
+        "name": "echifa",
+        "email": "echifa@gmail.com",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "robotId": "R45261203",
+        "password": "789456123",
+        "role": 555,
+        "name": "devtweaks",
+        "email": "devtweaks@gmail.com",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "robotId": "R45261205",
+        "password": "5465645",
+        "role": 555,
+        "name": "majida boulila",
+        "email": "majida@gmail.com",
+        "image": "https://user.oc-static.com/files/6001_7000/6410.jpg"
+    },
+    {
+        "id": 16,
+        "robotId": "R45261206",
+        "password": "789456123",
+        "role": 555,
+        "name": "ellajmi",
+        "email": "ellajmi@gmail.com",
+        "image": "https://user.oc-static.com/files/6001_7000/6410.jpg"
+    },
+    {
+        "id": 17,
+        "robotId": "R45261207",
+        "password": "456123789",
+        "role": 555,
+        "name": "arabica",
+        "email": "arabica@gmail.com",
+        "image": "https://user.oc-static.com/files/6001_7000/6410.jpg"
+    }
+]
